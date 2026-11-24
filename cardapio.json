@@ -1,33 +1,54 @@
 {
-  "whatsapp": "5531999999999",
+  "whatsapp": "(31) 3595-2981
+",
   "produtos": [
-    {
-      "nome": "X-Burger",
-      "descricao": "Pão, hambúrguer 150g, queijo e salada",
-      "preco": 18.00,
-      "categoria": "Hambúrgueres",
-      "ativo": true
-    },
-    {
-      "nome": "X-Bacon",
-      "descricao": "Pão, hambúrguer 150g, bacon, queijo e salada",
-      "preco": 22.50,
-      "categoria": "Hambúrgueres",
-      "ativo": true
-    },
-    {
-      "nome": "Batata Frita",
-      "descricao": "Porção de 300g",
-      "preco": 15.00,
-      "categoria": "Porções",
-      "ativo": true
-    },
-    {
-      "nome": "Refrigerante Lata",
-      "descricao": "350ml",
-      "preco": 6.00,
-      "categoria": "Bebidas",
-      "ativo": true
-    }
+    { "nome": "Bauru", "descricao": "Pão, 2 queijos, 2 presuntos, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 15.00, "categoria": "Lanches", "ativo": true },
+    { "nome": "Hambúrguer", "descricao": "Pão, carne bovina, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 11.50, "categoria": "Lanches", "ativo": true },
+    { "nome": "Havaneiro", "descricao": "Pão, carne, queijo, presunto, banana, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 20.50, "categoria": "Lanches", "ativo": true },
+    { "nome": "Koko Burguer", "descricao": "Pão, galinha desfiada, carne, queijo, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 29.50, "categoria": "Lanches", "ativo": true },
+    { "nome": "Komedouro", "descricao": "Pão, carne, queijo, bacon, ovo, abacaxi, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 28.50, "categoria": "Lanches", "ativo": true },
+    { "nome": "Laçador", "descricao": "Pão, carne, queijo, bacon, milho, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 25.00, "categoria": "Lanches", "ativo": true },
+    { "nome": "Ligeirinho", "descricao": "Pão, salsicha, queijo, bacon, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 22.00, "categoria": "Lanches", "ativo": true },
+    { "nome": "Lomburguer", "descricao": "Pão, bife de lombo, queijo, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 23.50, "categoria": "Lanches", "ativo": true },
+    { "nome": "Lomburguer Especial", "descricao": "Pão, bife de lombo, queijo, bacon, ovo, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 35.00, "categoria": "Lanches", "ativo": true },
+    { "nome": "Misto Quente", "descricao": "Pão, 2 queijos, 2 presuntos, creme de maionese e ketchup", "preco": 12.00, "categoria": "Lanches", "ativo": true },
+    { "nome": "Verde Amarelo", "descricao": "Pão, carne, queijo, presunto, ovo, bacon, milho, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 33.50, "categoria": "Lanches", "ativo": true },
+    { "nome": "X-Bacon", "descricao": "Pão, carne, queijo, bacon, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 24.00, "categoria": "Lanches", "ativo": true },
+    { "nome": "X-Burguer", "descricao": "Pão, carne, queijo, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 16.50, "categoria": "Lanches", "ativo": true },
+    { "nome": "X-Egg", "descricao": "Pão, carne, queijo, ovo, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 20.00, "categoria": "Lanches", "ativo": true },
+    { "nome": "X-Egg Bacon", "descricao": "Pão, carne, queijo, bacon, ovo, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 27.50, "categoria": "Lanches", "ativo": true },
+    { "nome": "X-Galinha", "descricao": "Pão, galinha desfiada, queijo, milho, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 26.50, "categoria": "Lanches", "ativo": true },
+    { "nome": "X-Jeca", "descricao": "Pão, carne, queijo, bacon, banana, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 25.50, "categoria": "Lanches", "ativo": true },
+    { "nome": "X-Koko", "descricao": "Pão, galinha desfiada, queijo, bacon, ovo, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 33.50, "categoria": "Lanches", "ativo": true },
+    { "nome": "X-Salada", "descricao": "Pão, carne, queijo, abacaxi, milho, batata palha, creme de maionese, alface, tomate e ketchup", "preco": 18.50, "categoria": "Lanches", "ativo": true },
+
+    { "nome": "Suco Uva", "descricao": "", "preco": 6.50, "categoria": "Bebidas", "ativo": true },
+    { "nome": "Suco Manga", "descricao": "", "preco": 6.50, "categoria": "Bebidas", "ativo": true },
+    { "nome": "Suco Goiaba", "descricao": "", "preco": 6.50, "categoria": "Bebidas", "ativo": true },
+    { "nome": "Suco Pêssego", "descricao": "", "preco": 7.00, "categoria": "Bebidas", "ativo": true },
+    { "nome": "Fanta Laranja Lata", "descricao": "", "preco": 7.00, "categoria": "Bebidas", "ativo": true },
+    { "nome": "Guaraná Lata", "descricao": "", "preco": 7.00, "categoria": "Bebidas", "ativo": true },
+    { "nome": "Coca Cola Lata", "descricao": "", "preco": 7.00, "categoria": "Bebidas", "ativo": true },
+    { "nome": "Coca Cola 600ml", "descricao": "", "preco": 8.00, "categoria": "Bebidas", "ativo": true },
+    { "nome": "Coca Zero 600ml", "descricao": "", "preco": 8.00, "categoria": "Bebidas", "ativo": true },
+    { "nome": "Fanta Laranja 600ml", "descricao": "", "preco": 8.00, "categoria": "Bebidas", "ativo": true },
+    { "nome": "Mate Couro 1lt", "descricao": "", "preco": 9.00, "categoria": "Bebidas", "ativo": true },
+    { "nome": "Coca Cola 2lts", "descricao": "", "preco": 16.50, "categoria": "Bebidas", "ativo": true },
+    { "nome": "Fanta Laranja 2lts", "descricao": "", "preco": 16.50, "categoria": "Bebidas", "ativo": true },
+    { "nome": "Guaraná 2lts", "descricao": "", "preco": 16.50, "categoria": "Bebidas", "ativo": true },
+
+    { "nome": "Acréscimo de Milho", "descricao": "", "preco": 2.00, "categoria": "Acréscimos", "ativo": true },
+    { "nome": "Acréscimo de Abacaxi", "descricao": "", "preco": 2.50, "categoria": "Acréscimos", "ativo": true },
+    { "nome": "Acréscimo de Maionese", "descricao": "", "preco": 3.00, "categoria": "Acréscimos", "ativo": true },
+    { "nome": "Acréscimo de Banana", "descricao": "", "preco": 2.50, "categoria": "Acréscimos", "ativo": true },
+    { "nome": "Acréscimo de Mostarda", "descricao": "", "preco": 3.00, "categoria": "Acréscimos", "ativo": true },
+    { "nome": "Acréscimo de Salsicha", "descricao": "", "preco": 2.50, "categoria": "Acréscimos", "ativo": true },
+    { "nome": "Acréscimo de Ketchup", "descricao": "", "preco": 3.00, "categoria": "Acréscimos", "ativo": true },
+    { "nome": "Acréscimo de Ovo", "descricao": "", "preco": 3.50, "categoria": "Acréscimos", "ativo": true },
+    { "nome": "Acréscimo de Presunto", "descricao": "", "preco": 4.50, "categoria": "Acréscimos", "ativo": true },
+    { "nome": "Acréscimo de Hambúrguer bovino", "descricao": "", "preco": 5.00, "categoria": "Acréscimos", "ativo": true },
+    { "nome": "Acréscimo de Bacon", "descricao": "", "preco": 7.50, "categoria": "Acréscimos", "ativo": true },
+    { "nome": "Acréscimo de Frango desfiado", "descricao": "", "preco": 7.50, "categoria": "Acréscimos", "ativo": true },
+    { "nome": "Acréscimo de Bife de lombo suíno", "descricao": "", "preco": 8.00, "categoria": "Acréscimos", "ativo": true }
   ]
 }

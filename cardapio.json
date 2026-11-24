@@ -1,0 +1,33 @@
+{
+  "whatsapp": "5531999999999",
+  "produtos": [
+    {
+      "nome": "X-Burger",
+      "descricao": "Pão, hambúrguer 150g, queijo e salada",
+      "preco": 18.00,
+      "categoria": "Hambúrgueres",
+      "ativo": true
+    },
+    {
+      "nome": "X-Bacon",
+      "descricao": "Pão, hambúrguer 150g, bacon, queijo e salada",
+      "preco": 22.50,
+      "categoria": "Hambúrgueres",
+      "ativo": true
+    },
+    {
+      "nome": "Batata Frita",
+      "descricao": "Porção de 300g",
+      "preco": 15.00,
+      "categoria": "Porções",
+      "ativo": true
+    },
+    {
+      "nome": "Refrigerante Lata",
+      "descricao": "350ml",
+      "preco": 6.00,
+      "categoria": "Bebidas",
+      "ativo": true
+    }
+  ]
+}
